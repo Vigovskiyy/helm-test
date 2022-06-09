@@ -3,7 +3,17 @@ entries:
   first-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-09T22:15:17.11379826Z"
+    created: "2022-06-09T22:21:18.638704062Z"
+    description: A Helm chart for Kubernetes
+    digest: 70e74837ed4241c548ed2ee48a9158402fe8348c0396611c56e32a3c01b4b5e9
+    name: first-app
+    type: application
+    urls:
+    - https://vigovskiyy.github.io/helm-test/demo_app/first-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-09T22:21:18.637974671Z"
     description: A Helm chart for Kubernetes
     digest: 6ed4e0e1743e82f47256d0a85933e12645d50cf873239e5403f0f90f48ed5f9a
     name: first-app
@@ -13,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-09T22:15:17.113182356Z"
+    created: "2022-06-09T22:21:18.635993675Z"
     description: A Helm chart for Kubernetes
     digest: d731b038631bcb6209cc46f14f4ed7e3b689c093d2aa5bdb022b0f8a2d9d40ca
     name: first-app
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://vigovskiyy.github.io/helm-test/demo_app/first-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-09T22:15:17.112466477Z"
+generated: "2022-06-09T22:21:18.63432475Z"
